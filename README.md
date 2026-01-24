@@ -1,7 +1,3 @@
-# TEMPLATE:
-
-
-
 # You have been [punishment, kicked / banned / timed out]
 **From Ice’s Place - Discord Server**
 The following action was taken on your account; **[punishment, kicked / banned / timed out]**.
